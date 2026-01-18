@@ -1,6 +1,7 @@
 # WEB_HW4
 
 **College Admissions Calculator**
+
 This project was created as part of HW 4 for the Web course.
 
 The page includes a simple admissions calculator built with HTML, CSS, and JavaScript.
