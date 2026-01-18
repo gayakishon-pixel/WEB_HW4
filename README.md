@@ -10,8 +10,8 @@ according to the given conditions.
 Thank You :) 
 
 🔗 **Link to - Project main page:**  
-[[[index.html](./index.html)](https://gayakishon.github.io/WEB_HW4/)
-](https://gayakishon-pixel.github.io/WEB_HW4/)
+https://gayakishon-pixel.github.io/WEB_HW4/
+
 # Group 14 
 - Gaya Kishon  
 - Rotem Maor  
