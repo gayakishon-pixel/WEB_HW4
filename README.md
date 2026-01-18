@@ -10,8 +10,8 @@ according to the given conditions.
 Thank You :) 
 
 🔗 **Link to - Project main page:**  
-[index.html](./index.html)
-# Group 14 
+[[index.html](./index.html)
+](https://gayakishon.github.io/REPOSITORY/)# Group 14 
 - Gaya Kishon  
 - Rotem Maor  
 - Noa Tieder
