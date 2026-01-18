@@ -1,0 +1,68 @@
+﻿<!--
+HW 4
+GROUP 14 - GAYA KISHON + ROTEM MAOR + NOA TIEDER
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>College Admissions Calculator</title>
+
+    <!-- קישור לקובץ ה-CSS לפי השם הקיים אצלנו -->
+    <link rel="stylesheet" href="StyleSheet1.css">
+</head>
+<body>
+
+    <!-- כותרת ראשית -->
+    <h1>College Admissions Calculator</h1>
+
+    <form>
+        <!-- שדה גיל -->
+        <label>
+            age:
+            <input type="number" id="age">
+        </label>
+
+        <!-- בחירת מסלול -->
+        <fieldset>
+            <legend>Select from the below options:</legend>
+
+            <label>
+                <input type="radio" name="track" id="psychBagrut" checked>
+                Psychometric and Bagrut
+            </label>
+
+            <label>
+                <input type="radio" name="track" id="mechinaBagrut">
+                Mechina and Bagrut
+            </label>
+        </fieldset>
+
+        <!-- שדות ציונים -->
+        <label>
+            Psychometric Grade:
+            <input type="number" id="psychometric">
+        </label>
+
+        <label>
+            Bagrut Grade:
+            <input type="number" id="bagrut">
+        </label>
+
+        <label>
+            Mechina Grade:
+            <input type="number" id="mechina">
+        </label>
+
+        <!-- כפתור בדיקה -->
+        <button type="button" id="validateBtn">validate</button>
+
+        <!-- פה תופיע ההודעה הירוקה אם צריך -->
+        <div id="result"></div>
+    </form>
+
+    <!-- קישור לקובץ ה-JS לפי השם הקיים אצלנו -->
+    <script src="Script1.js"></script>
+</body>
+</html>

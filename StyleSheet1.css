@@ -1,0 +1,20 @@
+﻿/*
+HW 4
+GROUP 14 - GAYA KISHON + ROTEM MAOR + NOA TIEDER
+*/
+
+/* מחלקה ירוקה להודעת הזכאות */
+.green {
+    background-color: greenyellow;
+}
+
+/* כל label יוצג בשורה נפרדת */
+label {
+    display: block;
+    margin-top: 8px;
+}
+
+/* ריווח קטן לכפתור */
+button {
+    margin-top: 10px;
+}
